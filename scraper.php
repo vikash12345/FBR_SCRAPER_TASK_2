@@ -35,7 +35,7 @@ $cHeadres = array(
        }
 //Main Code Start Here.
 //Total Pages in that site is 4995153
-for($page = 1237800;$page <2398000; $page++)
+for($page = 1247799;$page <2398000; $page++)
  {
 	
 	
